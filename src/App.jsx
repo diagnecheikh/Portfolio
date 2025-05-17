@@ -44,7 +44,7 @@ export default function App() {
       <header className="bg-indigo-600 text-white py-6 shadow-md">
         <div className="max-w-5xl mx-auto px-4">
           <h1 className="text-3xl font-bold">Portfolio de Cheikh Diagne</h1>
-          <p className="text-indigo-200">Étudiant en Système Numérique Informatqiue Embarquée et Objet Connecté</p>
+          <p className="text-indigo-200">Titulaire d’un DUT en informatique et actuellement étudiant en Licence 3 Système Numérique Informatqiue Embarquée et Objet Connecté. Curieux, motivé et dynamique, je cherche à approfondir mes compétences dans le domaine des systèmes embarqués.</p>
         </div>
       </header>
 
@@ -52,7 +52,7 @@ export default function App() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">À propos de moi</h2>
           <p className="text-lg leading-relaxed">
-            Je suis passionné par les systèmes embarqués, la programmation C, et les projets techniques.
+            Je suis passionné par les défis informatiques et électroniques et les projets techniques.
             Voici un aperçu de mes projets universitaires et du matériel que j’utilise.
           </p>
         </section>
